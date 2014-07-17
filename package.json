@@ -1,0 +1,27 @@
+{
+  "name": "Static-Site-Boilerplate-Gulp",
+  "version": "0.0.1",
+  "description": "Gulp-powered scaffolding for starting a static web site.",
+  "author": "Dan Brady",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-minify-css": "^0.3.6",
+    "gulp-uglify": "^0.3.1",
+    "gulp-livereload": "^2.1.0",
+    "gulp-jshint": "^1.7.1",
+    "gulp-notify": "^1.4.0",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-imagemin": "^0.6.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^0.7.2",
+    "gulp-clean": "^0.3.1",
+    "jshint-stylish": "^0.4.0",
+    "gulp-plumber": "^0.6.3",
+    "beepbeep": "^1.2.0",
+    "gulp-cache": "^0.2.0",
+    "gulp-util": "^2.2.20",
+    "gulp-sourcemaps": "^1.1.0",
+    "gulp-concat": "^2.3.3",
+    "gulp-header": "^1.0.5"
+  }
+}

@@ -1,0 +1,1 @@
+All files in the 'lib/' folder will not be part of the linting/concatenating/minifying processing.
